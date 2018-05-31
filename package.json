@@ -1,0 +1,19 @@
+{
+  "name": "elnawejs",
+  "version": "1.0.0",
+  "description": "A bunch of utilities I use in my projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elnawe/elnawejs.git"
+  },
+  "author": "Nahuel J. Sacchetti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elnawe/elnawejs/issues"
+  },
+  "homepage": "https://github.com/elnawe/elnawejs#readme"
+}
