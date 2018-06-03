@@ -1,5 +1,4 @@
-var assign = require("./src/assign");
-
 module.exports = {
-    assign: assign
+    assign: require("./src/assign"),
+    clone: require("./src/clone")
 };
